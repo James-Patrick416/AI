@@ -1,1 +1,3 @@
-
+7/31/2026
+today i learnt some lineaar algebra specifically GAUSS'S method for solving probelms of linear equation..this knowledge helps explain how models solve matrix equations and why linear algebra is
+fundamental..i used libraries like NumPy(np.linalg.solve())...the goal is to undersatnding the maths while relying on optimised numerical libraries for real AI apps
