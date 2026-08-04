@@ -13,3 +13,7 @@ Goal: find the sweet spot where total error is lowest.
 Iterative optimization to minimize cost function.
 Steps: compute gradient → update weights → repeat.
 Learning rate controls step size—too high = overshoot, too low = slow.
+
+Overfitting: model memorizes noise (high variance).
+Underfitting: model misses patterns (high bias).
+Solution: cross-validation, regularization, more data.
