@@ -21,3 +21,7 @@ Solution: cross-validation, regularization, more data.
 Add penalty term to cost function.
 L1 (Lasso): shrinks weights to zero (feature selection).
 L2 (Ridge): shrinks weights evenly (prevents overfitting).
+
+Split data into training/validation sets.
+K-fold: rotate which fold is validation.
+Prevents overfitting and gives honest performance estimate.
