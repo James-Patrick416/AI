@@ -17,3 +17,7 @@ Learning rate controls step size—too high = overshoot, too low = slow.
 Overfitting: model memorizes noise (high variance).
 Underfitting: model misses patterns (high bias).
 Solution: cross-validation, regularization, more data.
+
+Add penalty term to cost function.
+L1 (Lasso): shrinks weights to zero (feature selection).
+L2 (Ridge): shrinks weights evenly (prevents overfitting).
