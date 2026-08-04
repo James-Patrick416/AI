@@ -9,3 +9,7 @@ fundamental..i used libraries like NumPy(np.linalg.solve())...the goal is to und
 Bias: error from wrong assumptions (underfitting).
 Variance: error from sensitivity to noise (overfitting).
 Goal: find the sweet spot where total error is lowest.
+
+Iterative optimization to minimize cost function.
+Steps: compute gradient → update weights → repeat.
+Learning rate controls step size—too high = overshoot, too low = slow.
