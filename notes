@@ -4,3 +4,8 @@ fundamental..i used libraries like NumPy(np.linalg.solve())...the goal is to und
 
 8/3/2026
 -todays goal is to build a coplete Linear Regression from scratch using Gradient Descent and visualise the cost function convergence in 3D
+
+4/8/2026
+Bias: error from wrong assumptions (underfitting).
+Variance: error from sensitivity to noise (overfitting).
+Goal: find the sweet spot where total error is lowest.
