@@ -29,3 +29,9 @@ Prevents overfitting and gives honest performance estimate.
 Normalize/standardize features so gradient descent converges faster.
 Methods: Min-Max scaling, Z-score standardization.
 Essential for algorithms using distance or gradients.
+
+7/8/2026
+The set of assumptions a model uses to generalize from training data to unseen data.
+Strong bias = simpler models (linear regression).
+Weak bias = complex models (deep nets).
+No free lunch: no single bias works for all problems.
