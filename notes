@@ -40,3 +40,7 @@ Core tradeoff in reinforcement learning:
 Exploration: try new actions to find better rewards.
 Exploitation: use known actions for max reward.
 Balance is key—too much exploration = no progress, too much = stuck in local optimum.
+
+As features increase, data becomes sparse.
+Distance metrics break down—everything looks equally far.
+Need: feature selection, dimensionality reduction (PCA, t-SNE), or more data.
