@@ -52,3 +52,7 @@ Dominates NLP (BERT, GPT) and vision (ResNet).
 Neural network component that weighs importance of different inputs.
 "Pay attention" to relevant parts of the input.
 Core of Transformers—enables long-range dependencies and parallelization.
+
+Complex, unprogrammed behavior arising from simple rules.
+Seen in large language models, multi-agent systems, cellular automata.
+Not designed—emerges from scale and interaction.
