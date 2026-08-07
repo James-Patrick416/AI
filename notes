@@ -44,3 +44,7 @@ Balance is key—too much exploration = no progress, too much = stuck in local o
 As features increase, data becomes sparse.
 Distance metrics break down—everything looks equally far.
 Need: feature selection, dimensionality reduction (PCA, t-SNE), or more data.
+
+Take knowledge from one task and apply it to a related task.
+Pre-train on large dataset (e.g., ImageNet), fine-tune on small target dataset.
+Dominates NLP (BERT, GPT) and vision (ResNet).
