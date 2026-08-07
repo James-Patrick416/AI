@@ -35,3 +35,8 @@ The set of assumptions a model uses to generalize from training data to unseen d
 Strong bias = simpler models (linear regression).
 Weak bias = complex models (deep nets).
 No free lunch: no single bias works for all problems.
+
+Core tradeoff in reinforcement learning:
+Exploration: try new actions to find better rewards.
+Exploitation: use known actions for max reward.
+Balance is key—too much exploration = no progress, too much = stuck in local optimum.
