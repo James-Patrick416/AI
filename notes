@@ -56,3 +56,8 @@ Core of Transformers—enables long-range dependencies and parallelization.
 Complex, unprogrammed behavior arising from simple rules.
 Seen in large language models, multi-agent systems, cellular automata.
 Not designed—emerges from scale and interaction.
+
+8/12/2026
+Alignment = making AI systems act in accordance with human values and intentions.
+Hard because values are ambiguous, context-dependent, and change over time.
+Core problem: we don't have a complete specification of "human good."
