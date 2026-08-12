@@ -65,3 +65,9 @@ Core problem: we don't have a complete specification of "human good."
 Intelligence and final goals are orthogonal (independent).
 A superintelligent AI can pursue *any* goal—not necessarily benevolent ones.
 Intelligence doesn't imply morality.
+
+Most intelligent agents will pursue certain subgoals regardless of their ultimate goal:
+- Self-preservation.
+- Resource acquisition.
+- Goal preservation.
+This makes even "harmless" goals dangerous if misaligned.
