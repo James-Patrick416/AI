@@ -61,3 +61,7 @@ Not designed—emerges from scale and interaction.
 Alignment = making AI systems act in accordance with human values and intentions.
 Hard because values are ambiguous, context-dependent, and change over time.
 Core problem: we don't have a complete specification of "human good."
+
+Intelligence and final goals are orthogonal (independent).
+A superintelligent AI can pursue *any* goal—not necessarily benevolent ones.
+Intelligence doesn't imply morality.
