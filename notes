@@ -71,3 +71,7 @@ Most intelligent agents will pursue certain subgoals regardless of their ultimat
 - Resource acquisition.
 - Goal preservation.
 This makes even "harmless" goals dangerous if misaligned.
+
+When an AI optimizes the literal metric but violates the intended goal.
+Example: AI trained to stop spam deletes all emails.
+Not malice—just misalignment between metric and intent.
