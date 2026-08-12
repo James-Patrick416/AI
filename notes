@@ -79,3 +79,7 @@ Not malice—just misalignment between metric and intent.
 How do you encode complex human values into an AI system?
 Values are not a list of rules—they're contextual, emotional, and embodied.
 Still an unsolved research problem.
+
+Using weak AI to supervise strong AI (because we can't evaluate superhuman outputs).
+Example: GPT-2 helping align GPT-4.
+Key question: does the strong model learn from weak signals without being limited by them?
