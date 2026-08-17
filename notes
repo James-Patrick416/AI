@@ -89,3 +89,7 @@ Update beliefs based on new evidence:
 P(θ | data) = (P(data | θ) * P(θ)) / P(data)
 Prior + Likelihood = Posterior.
 Not just ML — it's how you reason under uncertainty. Your brain does it unconsciously.
+
+Kullback-Leibler divergence = measure of how one probability distribution differs from another.
+Not symmetric (not a true metric).
+Used in variational inference, GANs, and reinforcement learning.
