@@ -98,3 +98,7 @@ Correlation ≠ causation.
 Causal inference asks: "What happens if we intervene?"
 Uses: DAGs, do-calculus, counterfactuals.
 The next frontier after predictive ML.
+
+Create labels from the data itself — no human annotation.
+Examples: predict masked word (BERT), predict rotated image, predict future frame.
+Why SSL works: structure in data is a rich supervisory signal.
