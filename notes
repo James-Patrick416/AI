@@ -93,3 +93,8 @@ Not just ML — it's how you reason under uncertainty. Your brain does it uncons
 Kullback-Leibler divergence = measure of how one probability distribution differs from another.
 Not symmetric (not a true metric).
 Used in variational inference, GANs, and reinforcement learning.
+
+Correlation ≠ causation.
+Causal inference asks: "What happens if we intervene?"
+Uses: DAGs, do-calculus, counterfactuals.
+The next frontier after predictive ML.
