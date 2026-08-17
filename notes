@@ -83,3 +83,9 @@ Still an unsolved research problem.
 Using weak AI to supervise strong AI (because we can't evaluate superhuman outputs).
 Example: GPT-2 helping align GPT-4.
 Key question: does the strong model learn from weak signals without being limited by them?
+
+17/8/2026
+Update beliefs based on new evidence:
+P(θ | data) = (P(data | θ) * P(θ)) / P(data)
+Prior + Likelihood = Posterior.
+Not just ML — it's how you reason under uncertainty. Your brain does it unconsciously.
