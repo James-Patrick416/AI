@@ -106,3 +106,7 @@ Why SSL works: structure in data is a rich supervisory signal.
 Neural networks prefer certain functions over others even without explicit regularization.
 Due to: architecture choices, SGD dynamics, initialization.
 Can explain why they generalize despite being overparameterized.
+
+Train models on easy examples first, then increase difficulty.
+Mimics human learning — build fundamentals before tackling edge cases.
+Improves convergence speed and final performance.
